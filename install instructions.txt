@@ -1,0 +1,6 @@
+Install Instructions:
+
+Saints Row 3 doesn't have an eboot stored in '/dev_hdd0/game/' at least my copy didn't
+so we replace the eboot inside of '/dev_hdd0/GAMES//usrdir'
+
+Provided eboot.bin is debug and loads 'dev_hdd0/tmp/sr3.sprx'
