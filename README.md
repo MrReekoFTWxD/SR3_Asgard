@@ -4,9 +4,9 @@
 
 For PS3 
 
-To Open Menu: Up DPAD + R3
-To Go Back/Close: Circle
-To Select: X
+To Open Menu: Up DPAD + R3  
+To Go Back/Close: Circle  
+To Select: X  
 
 Change log:
  + Changed Menu Design
