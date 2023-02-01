@@ -4,6 +4,10 @@
 
 For PS3 
 
+To Open Menu: Up DPAD + R3
+To Go Back/Close: Circle
+To Select: X
+
 Change log:
  + Changed Menu Design
  + Added Option to dump lua scripts from game as they get loaded
