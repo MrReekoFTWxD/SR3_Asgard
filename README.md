@@ -8,7 +8,7 @@ To Open Menu: Up DPAD + R3
 To Go Back/Close: Circle  
 To Select: X  
 
-https://youtu.be/kS0TVFM1bBs
+[Video](https://youtu.be/UofeRo1laUU)
 
 
 Change log: 
