@@ -1,6 +1,6 @@
 
 
-## Asgard Saints Row 3 v2  
+## Asgard Saints Row 3 v3  
 
 For PS3 
 
@@ -11,7 +11,8 @@ To Select: X
 https://youtu.be/kS0TVFM1bBs
 
 
-Change log:
+Change log: 
+v2
  + Changed Menu Design
  + Added Option to dump lua scripts from game as they get loaded
     - dump to ``dev_hdd0/tmp/sr3/dumps``
@@ -22,9 +23,12 @@ Change log:
     - Added custom lua function ``mod.print(string)`` for printing to Target Manager output
  + Fixed crashing bugs I could replicate
 
-Main Menu
-![Preview](images/main_menu.png)
+v3
+ + Full Redesign
+ + fixed crashing issues
+ + redone most of the options
+ + added more teleports
+ + character customize
+ + vehicle customize
+ + vehicle saving
 
-With custom script loaded what looks like when first load
-![Preview](images/ingame.png) 
-![Preview](images/targetmanager.png)
